@@ -1,0 +1,7 @@
+.exprience{
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 0.5rem;
+}

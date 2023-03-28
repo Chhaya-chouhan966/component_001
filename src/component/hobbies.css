@@ -1,0 +1,9 @@
+.hobbies{
+    height: 25%;
+    padding: 0.5rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.hobbies ol{
+    padding: 1rem 3rem;
+}

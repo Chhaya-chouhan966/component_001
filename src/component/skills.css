@@ -1,0 +1,10 @@
+.skills {
+    height: 25%;
+    padding: 0.5rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.skills ul {
+    padding: 1rem 3rem;
+}

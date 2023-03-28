@@ -1,0 +1,11 @@
+.headar{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0.5rem 0.5rem;
+}
+.headar .link a{
+    color: #4285f4;
+}
